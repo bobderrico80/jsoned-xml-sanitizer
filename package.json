@@ -1,0 +1,19 @@
+{
+  "name": "jsoned-xml-sanitizer",
+  "version": "1.0.0",
+  "description": "CLI command that takes JSON-wrapped XML as input and outputs plain XML",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobderrico80/jsoned-xml-sanitizer.git"
+  },
+  "author": "bobderrico80@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobderrico80/jsoned-xml-sanitizer/issues"
+  },
+  "homepage": "https://github.com/bobderrico80/jsoned-xml-sanitizer#readme",
+  "bin": {
+    "jxs": "./cli.js"
+  }
+}
